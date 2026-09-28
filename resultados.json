@@ -1,0 +1,204 @@
+{
+  "limpieza": {
+    "lineas_crudas": 34649,
+    "duplicados_eliminados": 207,
+    "variantes_region": 27,
+    "regiones_reales": 7
+  },
+  "anual": {
+    "2024": {
+      "venta_bruta": 42014241.72,
+      "descuento": 700745.66,
+      "venta_neta": 41313496.06,
+      "costo": 31779169.34,
+      "margen_bruto": 9534326.72,
+      "costo_envio": 927659.21,
+      "ganancia": 8606667.51,
+      "margen_ganancia": 0.21
+    },
+    "2025": {
+      "venta_bruta": 49231395.91,
+      "descuento": 1394851.85,
+      "venta_neta": 47836544.06,
+      "costo": 38548073.96,
+      "margen_bruto": 9288470.1,
+      "costo_envio": 1364792.16,
+      "ganancia": 7923677.94,
+      "margen_ganancia": 0.17
+    }
+  },
+  "crecimiento_ventas": 0.1579,
+  "cambio_ganancia": -0.0794,
+  "puente": {
+    "ganancia_2024": 8606668,
+    "mas_volumen": 1758168,
+    "costo_proveedor": -1309918,
+    "descuentos": -694106,
+    "envio": -437133,
+    "ganancia_2025": 7923678
+  },
+  "descuento_vendedor": {
+    "V01": {
+      "vendedor": "Laura Mendoza",
+      "region": "Toluca",
+      "d2024": 0.0169,
+      "d2025": 0.0177
+    },
+    "V02": {
+      "vendedor": "Jorge Castillo",
+      "region": "Toluca",
+      "d2024": 0.0165,
+      "d2025": 0.017
+    },
+    "V03": {
+      "vendedor": "Andres Ruiz",
+      "region": "Metepec",
+      "d2024": 0.0161,
+      "d2025": 0.126
+    },
+    "V04": {
+      "vendedor": "Sofia Herrera",
+      "region": "Metepec",
+      "d2024": 0.0173,
+      "d2025": 0.0166
+    },
+    "V05": {
+      "vendedor": "Miguel Torres",
+      "region": "Lerma",
+      "d2024": 0.0162,
+      "d2025": 0.0161
+    },
+    "V06": {
+      "vendedor": "Paola Jimenez",
+      "region": "Zinacantepec",
+      "d2024": 0.0166,
+      "d2025": 0.0168
+    },
+    "V07": {
+      "vendedor": "Ricardo Navarro",
+      "region": "Tenancingo",
+      "d2024": null,
+      "d2025": 0.1286
+    },
+    "V08": {
+      "vendedor": "Daniela Ortega",
+      "region": "Valle de Bravo",
+      "d2024": null,
+      "d2025": 0.0191
+    },
+    "V09": {
+      "vendedor": "Hector Vargas",
+      "region": "CDMX Poniente",
+      "d2024": null,
+      "d2025": 0.125
+    },
+    "V10": {
+      "vendedor": "Fernanda Rojas",
+      "region": "Lerma",
+      "d2024": 0.0171,
+      "d2025": 0.0165
+    }
+  },
+  "region_2025": {
+    "CDMX Poniente": {
+      "venta_neta": 434796.1561,
+      "ganancia": -60459.3739,
+      "pedidos": 127.0,
+      "ticket_promedio": 3423.5918,
+      "envio_promedio": 837.592,
+      "entregas_tarde": 0.2756,
+      "margen_ganancia": -0.1391
+    },
+    "Lerma": {
+      "venta_neta": 12197459.3183,
+      "ganancia": 2117364.8683,
+      "pedidos": 887.0,
+      "ticket_promedio": 13751.3634,
+      "envio_promedio": 411.9972,
+      "entregas_tarde": 0.1522,
+      "margen_ganancia": 0.1736
+    },
+    "Metepec": {
+      "venta_neta": 9288352.7766,
+      "ganancia": 1373283.8166,
+      "pedidos": 739.0,
+      "ticket_promedio": 12568.813,
+      "envio_promedio": 261.1335,
+      "entregas_tarde": 0.134,
+      "margen_ganancia": 0.1479
+    },
+    "Tenancingo": {
+      "venta_neta": 662681.4641,
+      "ganancia": -47731.1259,
+      "pedidos": 163.0,
+      "ticket_promedio": 4065.5305,
+      "envio_promedio": 690.2901,
+      "entregas_tarde": 0.3374,
+      "margen_ganancia": -0.072
+    },
+    "Toluca": {
+      "venta_neta": 13987843.0389,
+      "ganancia": 2617257.7189,
+      "pedidos": 831.0,
+      "ticket_promedio": 16832.5428,
+      "envio_promedio": 265.284,
+      "entregas_tarde": 0.1492,
+      "margen_ganancia": 0.1871
+    },
+    "Valle de Bravo": {
+      "venta_neta": 225336.7285,
+      "ganancia": -42827.1315,
+      "pedidos": 83.0,
+      "ticket_promedio": 2714.9003,
+      "envio_promedio": 1052.3389,
+      "entregas_tarde": 0.3012,
+      "margen_ganancia": -0.1901
+    },
+    "Zinacantepec": {
+      "venta_neta": 11040074.5768,
+      "ganancia": 1966789.1668,
+      "pedidos": 824.0,
+      "ticket_promedio": 13398.1488,
+      "envio_promedio": 339.4252,
+      "entregas_tarde": 0.1481,
+      "margen_ganancia": 0.1781
+    }
+  },
+  "entregas_tarde": {
+    "2024": 0.0627,
+    "2025": 0.1628
+  },
+  "abandono_por_retrasos": {
+    "0-5%": {
+      "clientes": 34,
+      "perdidos": 0.1176
+    },
+    "5-15%": {
+      "clientes": 122,
+      "perdidos": 0.2459
+    },
+    "15-30%": {
+      "clientes": 52,
+      "perdidos": 0.2692
+    },
+    "Más de 30%": {
+      "clientes": 29,
+      "perdidos": 0.3103
+    }
+  },
+  "cartera_vencida": {
+    "Cafeteria": 5134.34,
+    "Tienda de abarrotes": 219313.2,
+    "Restaurante": 311826.06,
+    "Minisuper": 569415.13
+  },
+  "pago_tarde_por_tipo": {
+    "Cafeteria": 0.2185,
+    "Minisuper": 0.1418,
+    "Restaurante": 0.3535,
+    "Tienda de abarrotes": 0.1091
+  },
+  "pareto_top20_ganancia": 0.6855,
+  "clientes_con_perdida_2025": 44,
+  "clientes_2025": 227
+}

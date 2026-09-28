@@ -1,0 +1,91 @@
+producto_id,producto,categoria,marca,precio_lista_2024,costo_2024,precio_lista_2025,costo_2025
+P001,Arroz 1kg (caja),Abarrotes,Del Valle Andino,473.79,363.98,495.35,388.28
+P002,Frijol negro 1kg (caja),Abarrotes,Montealto,590.57,495.83,617.99,537.44
+P003,Aceite 900ml (caja),Abarrotes,Toltec,399.93,326.25,414.15,348.32
+P004,Azucar 2kg (caja),Abarrotes,Brisa,417.14,331.93,437.96,359.74
+P005,Atun en agua (caja),Abarrotes,Clarito,472.42,359.46,488.63,382.76
+P006,Pasta fideo (caja),Abarrotes,Nevado,200.65,167.97,208.74,180.4
+P007,Harina de maiz 1kg (caja),Abarrotes,Brisa,611.07,482.54,635.69,518.69
+P008,Lentejas 500g (caja),Abarrotes,Sierra,185.54,153.0,193.67,163.1
+P009,Sal 1kg (caja),Abarrotes,Nevado,353.68,296.99,370.16,316.19
+P010,Chiles en lata (caja),Abarrotes,Montealto,593.76,474.54,621.63,512.12
+P011,Mayonesa 390g (caja),Abarrotes,Nevado,528.63,440.18,550.21,473.3
+P012,Cafe soluble (caja),Abarrotes,Clarito,349.79,277.08,360.7,296.93
+P013,Avena 800g (caja),Abarrotes,Nevado,331.83,274.75,347.2,294.36
+P014,Leche en polvo (caja),Abarrotes,Toltec,457.3,362.0,476.85,391.07
+P015,Consome de pollo (caja),Abarrotes,Clarito,250.87,201.89,259.6,216.44
+P016,Pure de tomate (caja),Abarrotes,Del Valle Andino,634.88,522.38,662.46,558.43
+P017,Galletas marias (caja),Abarrotes,Brisa,590.82,464.99,610.1,504.68
+P018,Cereal hojuelas (caja),Abarrotes,Toltec,604.84,480.5,624.74,512.1
+P019,Mermelada fresa (caja),Abarrotes,Toltec,616.12,490.32,636.83,532.74
+P020,Sardina en tomate (caja),Abarrotes,La Hacienda,447.76,362.64,464.87,387.0
+P021,Elote en lata (caja),Abarrotes,Brisa,197.89,152.36,205.68,164.0
+P022,Harina de trigo (caja),Abarrotes,Montealto,533.12,446.75,553.08,473.96
+P023,Frijol bayo 1kg (caja),Abarrotes,Del Valle Andino,237.76,181.32,248.02,194.53
+P024,Arroz integral (caja),Abarrotes,Nevado,590.22,479.53,614.89,518.14
+P025,Salsa picante (caja),Abarrotes,Toltec,347.04,277.1,362.76,301.28
+P026,Vinagre blanco (caja),Abarrotes,Sierra,618.71,519.46,646.59,563.26
+P027,Agua 1.5L (caja),Bebidas,Clarito,195.13,149.56,204.17,158.6
+P028,Agua 600ml (caja),Bebidas,La Hacienda,411.7,312.46,430.03,333.33
+P029,Refresco cola 2L (caja),Bebidas,Montealto,215.51,166.15,222.75,177.84
+P030,Refresco naranja 2L (caja),Bebidas,Toltec,339.2,262.13,351.22,285.34
+P031,Jugo mango 1L (caja),Bebidas,Toltec,296.68,214.07,308.64,230.26
+P032,Jugo manzana 1L (caja),Bebidas,Toltec,395.11,297.73,410.33,323.44
+P033,Bebida isotonica (caja),Bebidas,Sierra,285.84,207.57,294.81,222.7
+P034,Te helado (caja),Bebidas,Nevado,463.81,361.73,485.2,390.77
+P035,Agua mineral (caja),Bebidas,Nevado,386.64,289.84,405.75,310.12
+P036,Refresco lima 600ml (caja),Bebidas,Brisa,216.96,172.69,224.39,187.79
+P037,Nectar durazno (caja),Bebidas,Sierra,427.26,337.97,445.24,363.11
+P038,Bebida de soya (caja),Bebidas,Nevado,367.56,285.03,385.65,306.12
+P039,Energetica 473ml (caja),Bebidas,La Hacienda,357.27,267.66,369.3,284.22
+P040,Cafe frio lata (caja),Bebidas,Brisa,402.13,295.48,420.06,314.21
+P041,Agua saborizada (caja),Bebidas,Clarito,451.41,332.16,472.88,357.3
+P042,Leche UHT 1L (caja),Bebidas,Toltec,165.4,131.92,170.43,140.84
+P043,Leche deslactosada (caja),Bebidas,Montealto,232.03,182.14,241.62,193.28
+P044,Yogur bebible (caja),Bebidas,Nevado,204.78,152.72,211.01,163.31
+P045,Refresco cola 600ml (caja),Bebidas,Sierra,459.65,347.92,480.9,375.66
+P046,Jugo naranja 1L (caja),Bebidas,Nevado,213.11,160.7,219.67,174.21
+P047,Detergente 1kg (caja),Limpieza,Clarito,680.04,445.15,701.13,476.38
+P048,Cloro 1L (caja),Limpieza,Montealto,256.36,173.64,268.14,185.69
+P049,Suavizante 850ml (caja),Limpieza,Clarito,631.4,416.91,651.97,451.52
+P050,Lavatrastes 750ml (caja),Limpieza,Toltec,298.64,203.86,311.41,219.82
+P051,Limpiador pisos 1L (caja),Limpieza,La Hacienda,248.12,167.2,258.7,181.36
+P052,Jabon de barra (caja),Limpieza,Clarito,363.58,242.8,380.79,263.87
+P053,Fibra verde (caja),Limpieza,Sierra,280.76,207.01,292.84,220.76
+P054,Bolsas basura (caja),Limpieza,Nevado,672.4,472.07,695.97,506.86
+P055,Desengrasante (caja),Limpieza,Sierra,528.62,385.83,548.5,410.53
+P056,Limpiavidrios (caja),Limpieza,La Hacienda,615.28,432.12,638.31,465.04
+P057,Detergente liquido 3L (caja),Limpieza,Nevado,307.53,219.96,318.78,236.18
+P058,Aromatizante (caja),Limpieza,Del Valle Andino,576.37,393.14,597.12,417.64
+P059,Cloro 4L (caja),Limpieza,La Hacienda,581.59,422.75,600.59,449.77
+P060,Esponja doble (caja),Limpieza,Del Valle Andino,653.2,465.78,676.8,505.36
+P061,Guantes latex (caja),Limpieza,Clarito,509.96,367.83,529.69,399.65
+P062,Trapeador (caja),Limpieza,Brisa,555.44,405.65,580.18,439.44
+P063,Papel higienico 12r (caja),Higiene personal,Sierra,704.17,459.53,730.52,487.99
+P064,Shampoo 750ml (caja),Higiene personal,Nevado,666.6,467.23,690.15,502.78
+P065,Jabon tocador (caja),Higiene personal,Del Valle Andino,661.58,417.02,683.09,444.35
+P066,Pasta dental (caja),Higiene personal,Clarito,604.49,391.65,634.68,426.18
+P067,Desodorante (caja),Higiene personal,Sierra,713.66,458.38,740.71,494.7
+P068,Toallas femeninas (caja),Higiene personal,Sierra,667.72,430.17,697.38,461.72
+P069,Panales etapa 3 (caja),Higiene personal,Brisa,458.0,310.53,472.05,337.03
+P070,Crema corporal (caja),Higiene personal,Nevado,463.14,308.08,483.72,330.09
+P071,Cepillo dental (caja),Higiene personal,Del Valle Andino,706.85,443.94,733.53,472.41
+P072,Gel antibacterial (caja),Higiene personal,Clarito,796.12,561.42,831.35,609.01
+P073,Rastrillos (caja),Higiene personal,Del Valle Andino,756.31,535.21,780.39,583.18
+P074,Enjuague bucal (caja),Higiene personal,Del Valle Andino,347.24,230.05,360.76,249.03
+P075,Toallitas humedas (caja),Higiene personal,Sierra,354.81,223.02,367.0,241.55
+P076,Acondicionador (caja),Higiene personal,Del Valle Andino,510.37,365.8,528.88,391.17
+P077,Papas fritas 45g (caja),Botanas y dulces,Montealto,419.11,303.27,432.16,330.52
+P078,Cacahuate japones (caja),Botanas y dulces,Toltec,489.88,362.65,508.44,386.88
+P079,Chicharron de harina (caja),Botanas y dulces,Sierra,204.97,155.24,213.18,165.13
+P080,Palomitas (caja),Botanas y dulces,Sierra,469.77,338.83,485.59,365.97
+P081,Chocolate barra (caja),Botanas y dulces,La Hacienda,255.71,183.56,264.83,197.42
+P082,Caramelo suave (caja),Botanas y dulces,La Hacienda,353.03,257.13,369.2,279.3
+P083,Paleta de dulce (caja),Botanas y dulces,Toltec,224.57,168.22,231.82,183.26
+P084,Gomitas (caja),Botanas y dulces,Toltec,243.04,165.85,251.34,178.32
+P085,Galleta rellena (caja),Botanas y dulces,Montealto,339.06,232.87,349.51,249.05
+P086,Pan dulce empacado (caja),Botanas y dulces,Nevado,183.9,136.28,191.13,148.06
+P087,Tostadas (caja),Botanas y dulces,Montealto,433.95,301.02,453.57,325.47
+P088,Nachos (caja),Botanas y dulces,Clarito,405.33,284.2,419.94,302.68
+P089,Mazapan (caja),Botanas y dulces,Toltec,432.35,322.85,453.27,348.0
+P090,Chicle (caja),Botanas y dulces,Montealto,497.19,371.69,517.22,395.01

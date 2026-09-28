@@ -1,0 +1,242 @@
+cliente_id,nombre_negocio,tipo_cliente,region,distancia_km,dias_credito,fecha_alta
+C0001,Minisuper El Roble 1,Minisuper,Toluca,10,30,2024-04-25
+C0002,Minisuper Los Arcos 2,Minisuper,Toluca,10,15,2024-08-21
+C0003,Tienda Los Arcos 3,Tienda de abarrotes,Toluca,11,15,2024-04-10
+C0004,Abarrotes Hidalgo 4,Tienda de abarrotes,Toluca,18,0,2024-04-05
+C0005,Cocina El Buen Gusto 5,Restaurante,TOLUCA,18,30,2024-02-19
+C0006,Super Lupita 6,Minisuper,Toluca,5,30,2025-02-16
+C0007,Super Santa Fe 7,Minisuper, Toluca  ,7,15,2024-04-04
+C0008,Miscelanea Dona Mari 8,Tienda de abarrotes,Toluca,5,15,2024-04-15
+C0009,Fonda Lupita 9,Restaurante,Toluca,16,30,2024-04-09
+C0010,Super El Roble 10,Minisuper,Toluca,9,30,2024-01-13
+C0011,Super La Joya 11,Minisuper,Toluca,6,30,2024-02-15
+C0012,Miscelanea Del Lago 12,Tienda de abarrotes,Toluca,10,15,2024-01-11
+C0013,Abarrotes El Faro 13,Tienda de abarrotes,Toluca,16,15,2024-05-17
+C0014,Minisuper El Sol 14,Minisuper,Toluca,6,30,2024-02-15
+C0015,Tienda La Palma 15,Tienda de abarrotes,Toluca,17,0,2024-09-29
+C0016,Super La Loma 16,Minisuper,Toluca,9,15,2024-09-23
+C0017,Minisuper Don Pepe 17,Minisuper,Toluca,7,15,2024-04-16
+C0018,Minisuper El Roble 18,Minisuper,Toluca,16,15,2024-04-29
+C0019,Cocina La Palma 19,Restaurante,Toluca,8,30,2024-02-26
+C0020,Miscelanea Dona Mari 20,Tienda de abarrotes,TOLUCA,6,15,2024-01-25
+C0021,Restaurante La Esquina 21,Restaurante, Toluca  ,14,30,2024-01-30
+C0022,Super El Pino 22,Minisuper,Toluca,7,15,2024-02-02
+C0023,Minisuper Del Lago 23,Minisuper,Toluca,16,15,2024-03-03
+C0024,Tienda Del Lago 24,Tienda de abarrotes,Toluca,15,15,2024-03-17
+C0025,Miscelanea Dona Mari 25,Tienda de abarrotes,Toluca,15,15,2024-01-24
+C0026,Super Las Flores 26,Minisuper,Toluca,15,15,2024-04-06
+C0027,Abarrotes La Esquina 27,Tienda de abarrotes,Toluca,7,15,2024-01-31
+C0028,Abarrotes Aurora 28,Tienda de abarrotes,Toluca,8,0,2024-02-13
+C0029,Miscelanea Guadalupe 29,Tienda de abarrotes,TOLUCA,5,0,2024-01-04
+C0030,Miscelanea La Joya 30,Tienda de abarrotes,Toluca,6,0,2024-04-01
+C0031,Miscelanea La Esquina 31,Tienda de abarrotes,Toluca,7,15,2024-02-18
+C0032,Super Del Lago 32,Minisuper,Toluca,13,30,2024-01-04
+C0033,Cafeteria El Sol 33,Cafeteria,Toluca,8,15,2024-08-19
+C0034,Cocina Del Lago 34,Restaurante,Toluca,15,30,2024-05-16
+C0035,Minisuper Aurora 35,Minisuper,Toluca,15,15,2024-03-20
+C0036,Super El Roble 36,Minisuper,Toluca,14,30,2024-02-17
+C0037,Fonda Don Pepe 37,Restaurante,toluca,12,30,2024-04-12
+C0038,Tienda Aurora 38,Tienda de abarrotes,Toluca,10,15,2024-01-23
+C0039,Minisuper La Palma 39,Minisuper,Toluca,4,30,2024-08-04
+C0040,Abarrotes La Estrella 40,Tienda de abarrotes, Toluca  ,7,0,2024-01-30
+C0041,Cafe El Centro 41,Cafeteria,Toluca,5,15,2024-03-26
+C0042,Super El Faro 42,Minisuper,Metepec,11,15,2024-01-15
+C0043,Tienda El Pino 43,Tienda de abarrotes,Metepec,9,0,2024-04-08
+C0044,Cocina Dona Mari 44,Restaurante,Metepec,8,30,2024-02-24
+C0045,Abarrotes La Estrella 45,Tienda de abarrotes,Metepec,7,0,2024-03-29
+C0046,Cafeteria El Pino 46,Cafeteria,Metepec,14,15,2024-01-28
+C0047,Minisuper Las Flores 47,Minisuper,Metepec,9,30,2024-12-03
+C0048,Abarrotes San Juan 48,Tienda de abarrotes,METEPEC,14,0,2024-01-10
+C0049,Miscelanea Morelos 49,Tienda de abarrotes,Metepec,9,15,2024-04-16
+C0050,Miscelanea El Pino 50,Tienda de abarrotes,Metepec,14,15,2024-03-01
+C0051,Miscelanea Aurora 51,Tienda de abarrotes,METEPEC,15,0,2024-02-23
+C0052,Miscelanea Don Pepe 52,Tienda de abarrotes,Metepec,9,15,2024-03-03
+C0053,Super Del Lago 53,Minisuper,METEPEC,9,30,2024-03-31
+C0054,Abarrotes El Faro 54,Tienda de abarrotes,Metepec,12,15,2024-02-17
+C0055,Super La Estrella 55,Minisuper,Metepec,14,15,2024-03-14
+C0056,Minisuper El Faro 56,Minisuper,Metepec,7,15,2024-04-06
+C0057,Minisuper Juarez 57,Minisuper,Metepec,11,15,2024-03-10
+C0058,Miscelanea El Faro 58,Tienda de abarrotes,Metepec,7,15,2024-02-18
+C0059,Miscelanea Morelos 59,Tienda de abarrotes, Metepec  ,7,15,2024-03-21
+C0060,Cocina Don Pepe 60,Restaurante,Metepec,13,30,2024-07-29
+C0061,Super Don Pepe 61,Minisuper,metepec,7,15,2024-08-08
+C0062,Minisuper La Estrella 62,Minisuper,Metepec,7,30,2024-02-27
+C0063,Fonda Juarez 63,Restaurante,Metepec,15,30,2024-04-27
+C0064,Tienda La Esquina 64,Tienda de abarrotes,Metepec,12,15,2025-06-10
+C0065,Minisuper San Juan 65,Minisuper,METEPEC,9,30,2024-02-29
+C0066,Abarrotes La Palma 66,Tienda de abarrotes,Metepec,14,0,2024-01-26
+C0067,Miscelanea Dona Mari 67,Tienda de abarrotes,Metepec,8,0,2024-04-06
+C0068,Tienda Aurora 68,Tienda de abarrotes,Metepec,6,15,2025-05-27
+C0069,Tienda Santa Fe 69,Tienda de abarrotes,Metepec,12,15,2024-04-26
+C0070,Cocina La Esquina 70,Restaurante,Metepec,8,30,2024-01-18
+C0071,Miscelanea El Sol 71,Tienda de abarrotes,METEPEC,15,0,2025-04-26
+C0072,Cafe La Palma 72,Cafeteria,METEPEC,12,15,2024-02-16
+C0073,Super El Centro 73,Minisuper,Metepec,14,30,2024-04-10
+C0074,Tienda Las Flores 74,Tienda de abarrotes,Metepec,13,15,2024-04-29
+C0075,Cafeteria Santa Fe 75,Cafeteria,Metepec,16,15,2024-01-26
+C0076,Tienda El Buen Gusto 76,Tienda de abarrotes,Metepec,10,0,2025-04-07
+C0077,Abarrotes El Centro 77,Tienda de abarrotes,metepec,7,0,2024-02-26
+C0078,Cocina La Palma 78,Restaurante, Metepec  ,14,30,2024-02-26
+C0079,Abarrotes La Joya 79,Tienda de abarrotes,Metepec,14,0,2024-02-21
+C0080,Minisuper El Sol 80,Minisuper,Metepec,7,30,2024-02-08
+C0081,Abarrotes El Buen Gusto 81,Tienda de abarrotes,Metepec,10,15,2024-03-20
+C0082,Miscelanea Morelos 82,Tienda de abarrotes,metepec,8,15,2024-01-31
+C0083,Abarrotes El Buen Gusto 83,Tienda de abarrotes, Metepec  ,8,0,2024-10-08
+C0084,Abarrotes Del Lago 84,Tienda de abarrotes,Metepec,14,0,2024-04-28
+C0085,Super El Roble 85,Minisuper,Metepec,9,30,2024-02-03
+C0086,Abarrotes Don Pepe 86,Tienda de abarrotes, Metepec  ,15,0,2024-01-01
+C0087,Miscelanea Del Lago 87,Tienda de abarrotes, Metepec  ,10,15,2024-01-27
+C0088,Tienda Del Lago 88,Tienda de abarrotes,Metepec,8,15,2024-03-26
+C0089,Miscelanea Los Arcos 89,Tienda de abarrotes,LERMA,19,0,2024-01-12
+C0090,Minisuper El Buen Gusto 90,Minisuper,Lerma,31,30,2024-02-01
+C0091,Tienda La Estrella 91,Tienda de abarrotes,Lerma,28,15,2024-02-09
+C0092,Tienda El Buen Gusto 92,Tienda de abarrotes,Lerma,32,15,2024-01-28
+C0093,Minisuper El Pino 93,Minisuper,LERMA,20,15,2024-03-17
+C0094,Super El Roble 94,Minisuper,lerma,24,30,2024-04-25
+C0095,Cocina Los Arcos 95,Restaurante,Lerma,32,30,2024-05-18
+C0096,Tienda Lupita 96,Tienda de abarrotes,Lerma,30,0,2024-02-18
+C0097,Cocina El Pino 97,Restaurante,Lerma,31,30,2024-03-13
+C0098,Tienda El Sol 98,Tienda de abarrotes,LERMA,19,0,2024-12-14
+C0099,Super La Joya 99,Minisuper,Lerma,27,15,2024-04-28
+C0100,Cafeteria Hidalgo 100,Cafeteria,Lerma,20,15,2024-09-03
+C0101,Cocina La Loma 101,Restaurante, Lerma  ,26,30,2024-04-25
+C0102,Cocina Del Lago 102,Restaurante,Lerma,20,30,2024-02-21
+C0103,Cafeteria Las Flores 103,Cafeteria,Lerma,24,15,2024-01-31
+C0104,Abarrotes Dona Mari 104,Tienda de abarrotes,Lerma,26,15,2024-03-28
+C0105,Miscelanea San Juan 105,Tienda de abarrotes,Lerma,21,15,2024-03-01
+C0106,Super El Buen Gusto 106,Minisuper,Lerma,22,30,2024-03-19
+C0107,Fonda Morelos 107,Restaurante,Lerma,26,30,2024-02-04
+C0108,Fonda Las Flores 108,Restaurante,Lerma,30,30,2024-01-07
+C0109,Abarrotes El Sol 109,Tienda de abarrotes,Lerma,18,15,2024-01-09
+C0110,Cafe Juarez 110,Cafeteria,Lerma,20,15,2025-03-31
+C0111,Miscelanea Don Pepe 111,Tienda de abarrotes,Lerma,27,15,2024-09-19
+C0112,Super La Esquina 112,Minisuper,lerma,19,30,2024-01-25
+C0113,Cafeteria El Roble 113,Cafeteria,lerma,21,15,2024-04-21
+C0114,Tienda El Sol 114,Tienda de abarrotes, Lerma  ,24,15,2024-01-31
+C0115,Miscelanea Guadalupe 115,Tienda de abarrotes,Lerma,32,0,2024-03-20
+C0116,Cocina Guadalupe 116,Restaurante,Lerma,23,30,2024-03-15
+C0117,Restaurante La Loma 117,Restaurante,Lerma,20,30,2024-04-07
+C0118,Miscelanea El Faro 118,Tienda de abarrotes,lerma,18,0,2024-02-20
+C0119,Tienda Morelos 119,Tienda de abarrotes,Lerma,26,0,2024-01-26
+C0120,Fonda Guadalupe 120,Restaurante,Lerma,20,30,2024-02-21
+C0121,Super Guadalupe 121,Minisuper,Lerma,23,30,2024-04-17
+C0122,Super El Buen Gusto 122,Minisuper, Lerma  ,30,30,2024-01-14
+C0123,Fonda El Pino 123,Restaurante,lerma,29,30,2024-04-06
+C0124,Super Las Flores 124,Minisuper,Lerma,31,15,2024-04-29
+C0125,Miscelanea Santa Fe 125,Tienda de abarrotes,Lerma,31,0,2024-12-27
+C0126,Cafeteria El Sol 126,Cafeteria,Lerma,32,15,2024-06-21
+C0127,Abarrotes El Sol 127,Tienda de abarrotes, Lerma  ,26,15,2024-02-06
+C0128,Abarrotes Juarez 128,Tienda de abarrotes,Lerma,31,0,2024-02-14
+C0129,Minisuper Don Pepe 129,Minisuper,lerma,32,15,2024-04-07
+C0130,Minisuper Dona Mari 130,Minisuper,Lerma,22,30,2024-04-14
+C0131,Miscelanea Morelos 131,Tienda de abarrotes,lerma,24,15,2024-02-12
+C0132,Miscelanea El Buen Gusto 132,Tienda de abarrotes,Lerma,26,0,2024-03-02
+C0133,Minisuper Lupita 133,Minisuper,LERMA,29,15,2024-05-17
+C0134,Super Dona Mari 134,Minisuper,Lerma,24,15,2025-07-28
+C0135,Restaurante El Pino 135,Restaurante,Lerma,22,30,2024-02-05
+C0136,Minisuper Guadalupe 136,Minisuper,Lerma,20,30,2025-08-19
+C0137,Super Dona Mari 137,Minisuper,Lerma,29,15,2024-04-08
+C0138,Miscelanea Juarez 138,Tienda de abarrotes,LERMA,26,0,2024-02-19
+C0139,Tienda Morelos 139,Tienda de abarrotes,Lerma,25,0,2024-02-22
+C0140,Miscelanea San Juan 140,Tienda de abarrotes,Lerma,28,15,2024-04-16
+C0141,Super El Roble 141,Minisuper,lerma,22,30,2025-06-27
+C0142,Tienda Morelos 142,Tienda de abarrotes,LERMA,25,0,2024-01-13
+C0143,Miscelanea El Roble 143,Tienda de abarrotes,zinacantepec,16,0,2025-06-14
+C0144,Minisuper Guadalupe 144,Minisuper, Zinacantepec  ,24,15,2024-04-16
+C0145,Super Los Arcos 145,Minisuper,Zinacantepec,14,30,2025-02-11
+C0146,Cafe La Joya 146,Cafeteria,Zinacantepec,14,15,2024-02-29
+C0147,Tienda Santa Fe 147,Tienda de abarrotes,Zinacantepec,12,0,2024-02-17
+C0148,Miscelanea Lupita 148,Tienda de abarrotes,Zinacantepec,16,0,2024-01-18
+C0149,Cafe Lupita 149,Cafeteria,Zinacantepec,25,15,2024-04-17
+C0150,Fonda La Estrella 150,Restaurante,Zinacantepec,21,30,2024-04-25
+C0151,Cocina La Loma 151,Restaurante,Zinacantepec,26,30,2025-09-15
+C0152,Cocina Las Flores 152,Restaurante,Zinacantepec,15,30,2024-01-12
+C0153,Super El Roble 153,Minisuper,Zinacantepec,23,30,2025-02-15
+C0154,Abarrotes Don Pepe 154,Tienda de abarrotes, Zinacantepec  ,25,0,2024-03-31
+C0155,Cafeteria La Estrella 155,Cafeteria,Zinacantepec,12,15,2024-01-02
+C0156,Tienda Don Pepe 156,Tienda de abarrotes,Zinacantepec,13,15,2024-01-06
+C0157,Minisuper El Faro 157,Minisuper,Zinacantepec,15,30,2024-03-24
+C0158,Super Aurora 158,Minisuper,zinacantepec,19,15,2024-01-15
+C0159,Super El Centro 159,Minisuper,Zinacantepec,23,30,2024-01-30
+C0160,Fonda Lupita 160,Restaurante,Zinacantepec,13,30,2024-06-08
+C0161,Tienda Morelos 161,Tienda de abarrotes,Zinacantepec,19,15,2024-01-22
+C0162,Tienda Morelos 162,Tienda de abarrotes,Zinacantepec,18,0,2024-02-27
+C0163,Miscelanea La Esquina 163,Tienda de abarrotes,Zinacantepec,20,0,2024-02-29
+C0164,Fonda El Pino 164,Restaurante,Zinacantepec,21,30,2024-01-15
+C0165,Tienda El Buen Gusto 165,Tienda de abarrotes,Zinacantepec,21,15,2024-03-11
+C0166,Cafeteria Juarez 166,Cafeteria,Zinacantepec,17,15,2024-01-17
+C0167,Abarrotes El Roble 167,Tienda de abarrotes,Zinacantepec,16,15,2024-04-14
+C0168,Miscelanea El Sol 168,Tienda de abarrotes,Zinacantepec,24,0,2024-04-21
+C0169,Minisuper Hidalgo 169,Minisuper,Zinacantepec,14,30,2024-02-08
+C0170,Miscelanea El Sol 170,Tienda de abarrotes,Zinacantepec,18,0,2024-04-07
+C0171,Miscelanea Morelos 171,Tienda de abarrotes,Zinacantepec,21,15,2024-02-13
+C0172,Abarrotes Morelos 172,Tienda de abarrotes,Zinacantepec,22,0,2024-02-14
+C0173,Super La Estrella 173,Minisuper,Zinacantepec,16,30,2024-02-08
+C0174,Tienda Morelos 174,Tienda de abarrotes,Zinacantepec,21,0,2024-02-09
+C0175,Miscelanea Los Arcos 175,Tienda de abarrotes,Zinacantepec,16,0,2024-03-08
+C0176,Minisuper Lupita 176,Minisuper,Zinacantepec,13,30,2025-03-25
+C0177,Cafeteria La Palma 177,Cafeteria,Zinacantepec,13,15,2024-01-16
+C0178,Tienda El Buen Gusto 178,Tienda de abarrotes,Zinacantepec,19,0,2024-01-15
+C0179,Fonda La Palma 179,Restaurante,Zinacantepec,18,30,2024-02-05
+C0180,Restaurante Aurora 180,Restaurante,Zinacantepec,16,30,2024-04-27
+C0181,Cafe La Estrella 181,Cafeteria,Zinacantepec,26,15,2024-01-30
+C0182,Minisuper Dona Mari 182,Minisuper,Zinacantepec,21,30,2024-03-19
+C0183,Abarrotes La Estrella 183,Tienda de abarrotes,Zinacantepec,26,15,2024-02-06
+C0184,Miscelanea Los Arcos 184,Tienda de abarrotes, Zinacantepec  ,18,0,2024-02-21
+C0185,Fonda El Sol 185,Restaurante,Zinacantepec,22,30,2024-02-18
+C0186,Restaurante Aurora 186,Restaurante,Zinacantepec,13,30,2024-01-29
+C0187,Miscelanea El Buen Gusto 187,Tienda de abarrotes,Zinacantepec,18,15,2024-03-18
+C0188,Cocina El Roble 188,Restaurante,Zinacantepec,19,30,2024-03-20
+C0189,Tienda Juarez 189,Tienda de abarrotes,Zinacantepec,17,0,2024-02-17
+C0190,Super Del Lago 190,Minisuper, Zinacantepec  ,14,30,2024-04-12
+C0191,Miscelanea Dona Mari 191,Tienda de abarrotes,Zinacantepec,13,15,2024-01-05
+C0192,Super El Centro 192,Minisuper,Zinacantepec,18,30,2024-04-13
+C0193,Abarrotes Santa Fe 193,Tienda de abarrotes,Zinacantepec,26,0,2024-01-19
+C0194,Cafeteria Del Lago 194,Cafeteria,Zinacantepec,20,15,2024-01-28
+C0195,Abarrotes El Centro 195,Tienda de abarrotes,tenancingo,50,15,2025-06-10
+C0196,Abarrotes Aurora 196,Tienda de abarrotes,Tenancingo,60,15,2025-03-09
+C0197,Restaurante El Pino 197,Restaurante,tenancingo,58,30,2025-03-30
+C0198,Miscelanea El Pino 198,Tienda de abarrotes, Tenancingo  ,54,15,2025-07-11
+C0199,Minisuper Guadalupe 199,Minisuper,TENANCINGO,48,30,2025-01-20
+C0200,Miscelanea La Estrella 200,Tienda de abarrotes,Tenancingo,57,0,2025-03-28
+C0201,Minisuper Del Lago 201,Minisuper,Tenancingo,56,15,2025-03-30
+C0202,Minisuper San Juan 202,Minisuper, Tenancingo  ,49,30,2025-03-23
+C0203,Cafe El Buen Gusto 203,Cafeteria,Tenancingo,49,15,2025-02-18
+C0204,Miscelanea Las Flores 204,Tienda de abarrotes,Tenancingo,50,0,2025-05-16
+C0205,Miscelanea La Joya 205,Tienda de abarrotes,Tenancingo,49,0,2025-01-01
+C0206,Super Hidalgo 206,Minisuper,Tenancingo,64,15,2025-04-03
+C0207,Abarrotes Dona Mari 207,Tienda de abarrotes,Tenancingo,53,15,2025-03-06
+C0208,Super Lupita 208,Minisuper,Tenancingo,51,30,2025-07-12
+C0209,Cafe Las Flores 209,Cafeteria,Tenancingo,54,15,2025-03-11
+C0210,Super El Roble 210,Minisuper, Tenancingo  ,54,30,2025-03-11
+C0211,Tienda La Loma 211,Tienda de abarrotes,Tenancingo,60,15,2025-01-01
+C0212,Tienda La Esquina 212,Tienda de abarrotes,Tenancingo,63,15,2025-04-19
+C0213,Abarrotes Hidalgo 213,Tienda de abarrotes,Tenancingo,57,0,2025-01-13
+C0214,Cafe Guadalupe 214,Cafeteria,Valle de Bravo,94,15,2025-02-06
+C0215,Miscelanea Los Arcos 215,Tienda de abarrotes,VALLE DE BRAVO,95,0,2025-04-14
+C0216,Tienda La Joya 216,Tienda de abarrotes,Valle de Bravo,86,15,2025-04-07
+C0217,Abarrotes El Sol 217,Tienda de abarrotes,Valle de Bravo,83,15,2025-06-08
+C0218,Abarrotes Morelos 218,Tienda de abarrotes, Valle de Bravo  ,91,15,2025-06-21
+C0219,Fonda Santa Fe 219,Restaurante,VALLE DE BRAVO,81,30,2025-06-16
+C0220,Miscelanea Hidalgo 220,Tienda de abarrotes,Valle de Bravo,102,15,2025-06-22
+C0221,Fonda Dona Mari 221,Restaurante,Valle de Bravo,99,30,2025-06-06
+C0222,Tienda Morelos 222,Tienda de abarrotes,Valle de Bravo,86,15,2025-04-30
+C0223,Tienda La Esquina 223,Tienda de abarrotes,Valle de Bravo,95,0,2025-06-11
+C0224,Cafe Los Arcos 224,Cafeteria,Valle de Bravo,102,15,2025-05-02
+C0225,Minisuper La Esquina 225,Minisuper,VALLE DE BRAVO,87,15,2025-06-20
+C0226,Abarrotes Don Pepe 226,Tienda de abarrotes,Valle de Bravo,89,0,2025-06-11
+C0227,Restaurante El Roble 227,Restaurante,Valle de Bravo,83,30,2025-01-03
+C0228,Minisuper El Faro 228,Minisuper, CDMX Poniente  ,60,30,2025-06-15
+C0229,Fonda La Loma 229,Restaurante, CDMX Poniente  ,62,30,2025-04-30
+C0230,Abarrotes Morelos 230,Tienda de abarrotes,CDMX Poniente,59,15,2025-03-24
+C0231,Tienda Las Flores 231,Tienda de abarrotes,CDMX Poniente,78,0,2025-03-29
+C0232,Minisuper El Buen Gusto 232,Minisuper,CDMX Poniente,63,30,2025-05-24
+C0233,Abarrotes El Buen Gusto 233,Tienda de abarrotes,CDMX Poniente,70,15,2025-04-10
+C0234,Cocina Dona Mari 234,Restaurante,cdmx poniente,78,30,2025-02-22
+C0235,Minisuper El Faro 235,Minisuper,cdmx poniente,65,15,2025-03-11
+C0236,Tienda Hidalgo 236,Tienda de abarrotes,CDMX Poniente,82,15,2025-03-19
+C0237,Tienda La Esquina 237,Tienda de abarrotes,CDMX PONIENTE,81,15,2025-01-17
+C0238,Tienda Guadalupe 238,Tienda de abarrotes,cdmx poniente,59,15,2025-02-07
+C0239,Tienda Del Lago 239,Tienda de abarrotes,CDMX Poniente,72,15,2025-02-28
+C0240,Fonda El Buen Gusto 240,Restaurante,CDMX Poniente,70,30,2025-02-17
+C0241,Cafe El Faro 241,Cafeteria,Cdmx Poniente,68,15,2025-01-14

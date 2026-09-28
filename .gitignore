@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+# Se regeneran con analisis.py
+datos_limpios/
+# Respaldos y notas internas de trabajo
+excel/*antes_del_cierre*
+progreso.md
